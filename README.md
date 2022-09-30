@@ -10,7 +10,7 @@
   <kbd> <img src="images\taco-logo.png" alt="drawing" width="30" style="border-radius:10px"\></kbd>
 </p>
 
-# Romashkin's corp <3
+# Romashkin's corp ❤
 Тема: Сеть ресторанов
 
 ____
