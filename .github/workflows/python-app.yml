@@ -5,7 +5,8 @@ name: Kebab
 
 on:
   push:
-    branches: [ "develop/cicdbuzz/" ]
+    branches:
+      - develop
   pull_request:
     branches: [ "*" ]
 
