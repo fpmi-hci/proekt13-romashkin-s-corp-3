@@ -1,9 +1,10 @@
 import mysql from "mysql2";
+import os from "os"
 
 // create the connection to database
 
 const db = mysql.createConnection({
-    host: "localhost",
+    host: os.hostname() || "localhost",
     user: "root",
     password: "",
     database: "db_restaurant"
