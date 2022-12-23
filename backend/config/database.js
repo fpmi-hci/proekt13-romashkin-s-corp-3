@@ -4,10 +4,10 @@ import os from "os"
 // create the connection to database
 
 const db = mysql.createConnection({
-    host: os.hostname() || "localhost",
-    user: "root",
-    password: "",
-    database: "db_restaurant"
+    host: "sql.freedb.tech",
+    user: "freedb_rd_root",
+    password: "KNQ5@mM?JGpemw&",
+    database: "freedb_db_restaurant"
 });
 
 
