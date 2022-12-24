@@ -6,8 +6,8 @@ import os from "os"
 const db = mysql.createConnection({
     host: "sql.freedb.tech",
     user: "freedb_rd_root",
-    password: "KNQ5@mM?JGpemw&",
-    database: "freedb_db_restaurant"
+    password: "TKVZ3eaGw%8hr$Q",
+    database: "freedb_kebab-db"
 });
 
 
